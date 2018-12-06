@@ -1,6 +1,6 @@
 # CorssroadsEx
 
-English|[中文](README_CN.md)
+English | [中文](README_CN.md)
 
 CorssroadsEx is a new generation of decentralized exchange with trade for same chain, trade for different chain and asset transfer cross different chain
 
