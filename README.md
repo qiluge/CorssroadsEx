@@ -9,7 +9,7 @@ CorssroadsEx is a new generation of decentralized exchange with trade for same c
     You can use some tokens issued at chain A to exchange other tokens at chain B. For example, you can exchange eos and ether at CorssroadsEx.
     
  3. Transfer asset cross different chain:
-    Asset transfers is the core feature of CorssroadsEx, it means you can transfer your asset from chain A to chain B and redeem it from chain B at any time. With this feature, two or more chain could merge to a new chain or a exist chain that contain all asset of these chain.
+    Asset transfers is the core feature of CorssroadsEx, it means you can transfer your asset from chain A to chain B and redeem it from chain B at any time. And this transfer process does not affect asset value. With this feature, two or more chain could merge to a new chain or a exist chain that contain all asset of these chain.
     
 ## Roadmap
  1. 2019-12-31, complete feature 1;
