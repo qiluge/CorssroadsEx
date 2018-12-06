@@ -1,4 +1,7 @@
 # CorssroadsEx
+
+[English](README.md) | 中文
+
 CorssroadsEx 是新一代的去中心化交易所，它具有如下功能：1. 同链代币交易；2. 跨链代币交易；3. 跨链资产转移。
 
 ## 功能
