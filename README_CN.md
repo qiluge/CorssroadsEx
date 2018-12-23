@@ -5,7 +5,7 @@
 CorssroadsEx 是新一代的去中心化交易所，它具有如下功能：1. 同链代币交易；2. 跨链代币交易；3. 跨链资产转移。
 
 ## 功能
- 1. 同链代币交易：
+ 1. [同链代币交易](docs/同链资产交易.md)：
     CorssroadsEx将通过智能合约撮合交易，实现同链代币交易，这种交易包括链上发行代币与其他发行代币的交易和发行代币与链上原生资产的交易。比如说ethereum上的任意erc-20代币之间的交易，任意erc-20代币与ether之间的交易。这里有一个最简单的erc-20代币与ether交易的例子：[CrossroadsCoin](https://github.com/etherCrossroads/CrossroadsCoin)。 
 
  2. 跨链代币交易：
